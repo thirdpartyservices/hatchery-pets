@@ -26,3 +26,6 @@ https://3ps.online/pets/ is a free browser tool: describe a pet, get a validated
 
 | Pet | Preview | Description |
 |---|---|---|
+| [Lil Mayo](pets/lil-mayo/) | <img src="pets/lil-mayo/preview.gif" width="96"> | A tiny grey alien who floats, judges your code, and loves mayo. |
+| [Pwny](pets/pwny/) | <img src="pets/pwny/preview.gif" width="96"> | A tiny e-ink face that pwns your bugs and naps in between. |
+| [Glitch Cat](pets/glitch-cat/) | <img src="pets/glitch-cat/preview.gif" width="96"> | A hoodie-wearing hacker cat with a laptop and matrix-green eyes. |
