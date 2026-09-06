@@ -1,0 +1,6 @@
+{
+  "id": "stack-owl",
+  "displayName": "Stack Owl",
+  "description": "an owl that has read every answer and trusts none of them.",
+  "spritesheetPath": "spritesheet.webp"
+}
