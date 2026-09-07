@@ -1,0 +1,6 @@
+{
+  "id": "cache-corgi",
+  "displayName": "Cache Corgi",
+  "description": "a corgi who forgets what it fetched the second you look away.",
+  "spritesheetPath": "spritesheet.webp"
+}
