@@ -1,0 +1,6 @@
+{
+  "id": "null-penguin",
+  "displayName": "Null Penguin",
+  "description": "the penguin that returns nothing and is at peace with it.",
+  "spritesheetPath": "spritesheet.webp"
+}
