@@ -1,0 +1,6 @@
+{
+  "id": "kernel-koala",
+  "displayName": "Kernel Koala",
+  "description": "sleeps 22 hours a day and still ships the kernel.",
+  "spritesheetPath": "spritesheet.webp"
+}
