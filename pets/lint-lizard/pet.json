@@ -1,0 +1,6 @@
+{
+  "id": "lint-lizard",
+  "displayName": "Lint Lizard",
+  "description": "it will find the trailing whitespace. it always does.",
+  "spritesheetPath": "spritesheet.webp"
+}
