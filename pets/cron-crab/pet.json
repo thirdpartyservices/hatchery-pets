@@ -1,0 +1,6 @@
+{
+  "id": "cron-crab",
+  "displayName": "Cron Crab",
+  "description": "runs every minute whether you asked or not.",
+  "spritesheetPath": "spritesheet.webp"
+}
