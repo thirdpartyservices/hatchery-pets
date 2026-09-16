@@ -1,0 +1,6 @@
+{
+  "id": "daemon-duck",
+  "displayName": "Daemon Duck",
+  "description": "runs in the background, quacks only in logs.",
+  "spritesheetPath": "spritesheet.webp"
+}
