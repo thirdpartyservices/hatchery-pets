@@ -1,0 +1,6 @@
+{
+  "id": "patch-panda",
+  "displayName": "Patch Panda",
+  "description": "a panda that hotfixes prod and eats bamboo about it.",
+  "spritesheetPath": "spritesheet.webp"
+}
