@@ -1,0 +1,6 @@
+{
+  "id": "boolean-bunny",
+  "displayName": "Boolean Bunny",
+  "description": "either it is true or it is very, very false.",
+  "spritesheetPath": "spritesheet.webp"
+}
