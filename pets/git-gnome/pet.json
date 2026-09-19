@@ -1,0 +1,6 @@
+{
+  "id": "git-gnome",
+  "displayName": "Git Gnome",
+  "description": "lives under the repo, guards the reflog.",
+  "spritesheetPath": "spritesheet.webp"
+}
