@@ -1,0 +1,6 @@
+{
+  "id": "socket-sloth",
+  "displayName": "Socket Sloth",
+  "description": "keeps the connection open and takes its time.",
+  "spritesheetPath": "spritesheet.webp"
+}
