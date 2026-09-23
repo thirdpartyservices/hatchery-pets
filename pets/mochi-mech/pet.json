@@ -1,0 +1,6 @@
+{
+  "id": "mochi-mech",
+  "displayName": "Mochi Mech",
+  "description": "a squishy little robot built for one job it forgot.",
+  "spritesheetPath": "spritesheet.webp"
+}
