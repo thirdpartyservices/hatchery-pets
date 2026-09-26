@@ -1,0 +1,6 @@
+{
+  "id": "zombie-possum",
+  "displayName": "Zombie Possum",
+  "description": "the child process that outlived its parent and kept right on running.",
+  "spritesheetPath": "spritesheet.webp"
+}
