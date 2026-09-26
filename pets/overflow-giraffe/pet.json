@@ -1,0 +1,6 @@
+{
+  "id": "overflow-giraffe",
+  "displayName": "Overflow Giraffe",
+  "description": "stacks one block too many, every single time, on purpose.",
+  "spritesheetPath": "spritesheet.webp"
+}
