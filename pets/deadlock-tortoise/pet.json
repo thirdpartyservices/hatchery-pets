@@ -1,0 +1,6 @@
+{
+  "id": "deadlock-tortoise",
+  "displayName": "Deadlock Tortoise",
+  "description": "waiting for the other one to move first, has been waiting all week.",
+  "spritesheetPath": "spritesheet.webp"
+}
