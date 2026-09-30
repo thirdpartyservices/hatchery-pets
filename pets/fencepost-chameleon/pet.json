@@ -1,0 +1,6 @@
+{
+  "id": "fencepost-chameleon",
+  "displayName": "Fencepost Chameleon",
+  "description": "counts to ten, stops at nine or eleven, never tells you which.",
+  "spritesheetPath": "spritesheet.webp"
+}
