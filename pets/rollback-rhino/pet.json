@@ -1,0 +1,6 @@
+{
+  "id": "rollback-rhino",
+  "displayName": "Rollback Rhino",
+  "description": "charges straight ahead, then reverts the whole thing at 2am.",
+  "spritesheetPath": "spritesheet.webp"
+}
