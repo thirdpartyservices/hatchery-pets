@@ -1,0 +1,6 @@
+{
+  "id": "relay-fox",
+  "displayName": "Relay Fox",
+  "description": "three hops from anyone, still passing the message along.",
+  "spritesheetPath": "spritesheet.webp"
+}
