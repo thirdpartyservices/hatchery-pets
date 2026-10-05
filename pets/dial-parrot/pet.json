@@ -1,0 +1,6 @@
+{
+  "id": "dial-parrot",
+  "displayName": "Dial Parrot",
+  "description": "talks over every intro and still takes your call on line two.",
+  "spritesheetPath": "spritesheet.webp"
+}
