@@ -1,0 +1,6 @@
+{
+  "id": "courier-pigeon",
+  "displayName": "Courier Pigeon",
+  "description": "takes the note from your phone to the right folder every ten minutes.",
+  "spritesheetPath": "spritesheet.webp"
+}
