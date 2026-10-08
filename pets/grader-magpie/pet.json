@@ -1,0 +1,6 @@
+{
+  "id": "grader-magpie",
+  "displayName": "Grader Magpie",
+  "description": "sorts every shiny card by hand and never once guesses the price.",
+  "spritesheetPath": "spritesheet.webp"
+}
