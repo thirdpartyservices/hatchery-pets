@@ -1,0 +1,6 @@
+{
+  "id": "hold-frog",
+  "displayName": "Hold Frog",
+  "description": "calls every store in town and waits on hold so you never have to.",
+  "spritesheetPath": "spritesheet.webp"
+}
