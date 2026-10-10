@@ -1,0 +1,6 @@
+{
+  "id": "ticket-mouse",
+  "displayName": "Ticket Mouse",
+  "description": "prints your morning on a strip of paper and eats the corner.",
+  "spritesheetPath": "spritesheet.webp"
+}
