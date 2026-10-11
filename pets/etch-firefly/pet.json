@@ -1,0 +1,6 @@
+{
+  "id": "etch-firefly",
+  "displayName": "Etch Firefly",
+  "description": "draws on wood with its own light, one careful line at a time.",
+  "spritesheetPath": "spritesheet.webp"
+}
