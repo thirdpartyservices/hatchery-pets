@@ -1,0 +1,6 @@
+{
+  "id": "dispatch-heron",
+  "displayName": "Dispatch Heron",
+  "description": "stands in the calendar all week and picks off each job right on time.",
+  "spritesheetPath": "spritesheet.webp"
+}
