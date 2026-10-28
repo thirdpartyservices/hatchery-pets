@@ -1,0 +1,6 @@
+{
+  "id": "wedge-marmot",
+  "displayName": "Wedge Marmot",
+  "description": "whistles when a desk looks fine but is stuck on a prompt nobody answered.",
+  "spritesheetPath": "spritesheet.webp"
+}
