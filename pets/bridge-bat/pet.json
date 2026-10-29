@@ -1,0 +1,6 @@
+{
+  "id": "bridge-bat",
+  "displayName": "Bridge Bat",
+  "description": "dials into the conference call, stays silent, and brings back the recording.",
+  "spritesheetPath": "spritesheet.webp"
+}
