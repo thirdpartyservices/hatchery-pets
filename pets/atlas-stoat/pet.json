@@ -1,0 +1,6 @@
+{
+  "id": "atlas-stoat",
+  "displayName": "Atlas Stoat",
+  "description": "keeps a verdict for all sixty-nine projects and knows which five to bet on.",
+  "spritesheetPath": "spritesheet.webp"
+}
