@@ -1,0 +1,6 @@
+{
+  "id": "pocket-pangolin",
+  "displayName": "Pocket Pangolin",
+  "description": "curls up small to fit a round screen and stops running out of memory.",
+  "spritesheetPath": "spritesheet.webp"
+}
