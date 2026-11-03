@@ -1,6 +1,6 @@
 # Crackbaby
 
-squinting at the world from a crumpled blanket, unimpressed
+crawls everywhere on all fours, squinting at the world, unimpressed
 
 ![preview](preview.gif)
 
