@@ -1,0 +1,6 @@
+{
+  "id": "tile-lemming",
+  "displayName": "Tile Lemming",
+  "description": "rearranges the same letters until the wall says something good.",
+  "spritesheetPath": "spritesheet.webp"
+}
