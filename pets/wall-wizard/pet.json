@@ -1,0 +1,6 @@
+{
+  "id": "wall-wizard",
+  "displayName": "Wall Wizard",
+  "description": "keeps watch from the wall with a full moon behind his hat.",
+  "spritesheetPath": "spritesheet.webp"
+}
