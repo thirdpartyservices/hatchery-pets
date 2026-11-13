@@ -1,0 +1,6 @@
+{
+  "id": "hoop-hamster",
+  "displayName": "Hoop Hamster",
+  "description": "stitches one orange square at a time and never skips a row.",
+  "spritesheetPath": "spritesheet.webp"
+}
