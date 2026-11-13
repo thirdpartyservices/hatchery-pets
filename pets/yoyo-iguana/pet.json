@@ -1,0 +1,6 @@
+{
+  "id": "yoyo-iguana",
+  "displayName": "Yoyo Iguana",
+  "description": "goes down, comes back up, and counts it as a win every time.",
+  "spritesheetPath": "spritesheet.webp"
+}
