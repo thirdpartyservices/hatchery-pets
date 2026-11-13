@@ -1,0 +1,6 @@
+{
+  "id": "tama-chick",
+  "displayName": "Tama Chick",
+  "description": "checks in on you on the hour and wants a snack.",
+  "spritesheetPath": "spritesheet.webp"
+}
